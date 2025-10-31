@@ -1,6 +1,10 @@
 # LinkedIn Job Search URL Builder 🔍
 
-LinkedIn job search URL builder that converts natural language prompts into LinkedIn formated URL with search paramters, keywoards, boolean logic and filters. 
+[![Try it](https://img.shields.io/badge/try%20it-now-blue?style=for-the-badge)](https://linkedin-job-search-url-builder.vercel.app/) [![Vercel](https://img.shields.io/badge/vercel-deployed-black?style=for-the-badge&logo=vercel)](https://linkedin-job-search-url-builder.vercel.app/) 
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/xRyul/linkedin-job-search-url-builder)
+
+LinkedIn job search URL builder that converts natural language prompts into LinkedIn formated URL with search paramters, keywoards, boolean logic and filters.
 
 ## Features
 
