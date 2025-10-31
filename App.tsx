@@ -106,8 +106,7 @@ const App: React.FC = () => {
       <header className="bg-white dark:bg-gray-800 shadow-md">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
-            <svg className="w-8 h-8 text-brand-primary" fill="currentColor" viewBox="0 0 40 40"><path d="M34.98,2.99H5.02C3.9,2.99,3,3.9,3,5.02v29.96C3,36.1,3.9,37,5.02,37h29.96c1.12,0,2.02-0.9,2.02-2.02V5.02 C37,3.9,36.1,2.99,34.98,2.99z M13.19,31.02h-4.23V15.34h4.23V31.02z M11.07,13.44c-1.38,0-2.5-1.12-2.5-2.5s1.12-2.5,2.5-2.5 s2.5,1.12,2.5,2.5S12.45,13.44,11.07,13.44z M29.89,31.02h-4.23v-7.5c0-1.79-0.03-4.08-2.49-4.08c-2.49,0-2.87,1.94-2.87,3.95 v7.63h-4.23V15.34h4.06v1.86h0.06c0.56-1.07,1.95-2.19,3.99-2.19c4.27,0,5.06,2.81,5.06,6.46V31.02z"></path></svg>
-            <h1 className="text-xl md:text-2xl font-bold text-gray-800 dark:text-white">LinkedIn Job URL Builder</h1>
+            <h1 className="text-xl md:text-2xl font-bold text-gray-800 dark:text-white">🔍 LinkedIn Job URL Builder</h1>
           </div>
         </div>
       </header>
