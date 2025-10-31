@@ -1,0 +1,5 @@
+{
+  "name": "LinkedIn URL Builder",
+  "description": "An intelligent tool to craft highly specific LinkedIn job search URLs. Users can describe their ideal job in plain English, and the app uses AI to generate a precise URL. Fine-tune every search parameter and save your custom searches for a streamlined job-hunting experience.",
+  "requestFramePermissions": []
+}
